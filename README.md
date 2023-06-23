@@ -1,8 +1,9 @@
 ## Link to deployed project:
 https://artobject111.github.io/green-api/
-##App description
+
+## App description
 -Пользователь переходит на сайт чата и вводит свои учетные данные из
-системы GREEN-API (idInstance, apiTokenInstance) https://green-api.com/\
+системы GREEN-API (idInstance, apiTokenInstance) https://green-api.com/ \
 -Пользователь вводит номер телефона получателя и создает новый чат\
 -Пользователь пишет текстовое сообщение и отправляет его получателю в
 WhatsApp\

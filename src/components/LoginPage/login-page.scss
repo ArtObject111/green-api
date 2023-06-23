@@ -1,0 +1,41 @@
+.auth-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #C5E6C1;
+
+  &__content {
+    min-width: 300px;
+    font-family: system-ui;
+    display: flex;
+    flex-direction: column;
+    background-color: #00a884;
+    padding: 26px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 20px 2px rgb(0 0 0 / 20%);
+
+    label {
+      margin: 8px 0 5px 0;
+      color: aliceblue;
+    }
+
+    input {
+      border: none;
+      font-family: system-ui;
+      padding: 8px;
+      &:focus-visible {
+        outline: 1px solid lightgrey;
+      }
+    }
+  }
+  &__send-button {
+    margin-left: auto;
+    button {
+      margin-top: 26px;
+      padding: 6px 32px;
+      font-family: system-ui;
+      border: none;
+    }
+  }
+}

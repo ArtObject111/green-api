@@ -1,0 +1,23 @@
+.message {
+  display: flex;
+
+  &__wrapper {
+    display: flex;
+    margin: 10px 0;
+  }
+
+  &__item {
+    background-color: #D9FDD3;
+    padding: 8px;
+    border-radius: 8px;
+    margin-left: auto;
+    max-width: 70%;
+    word-break: break-word;
+    font-family: system-ui;
+  }
+}
+
+.interlocutor-color {
+  background-color: #fff;
+  margin-left: unset;
+}

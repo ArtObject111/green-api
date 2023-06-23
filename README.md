@@ -1,3 +1,14 @@
+## Link to deployed project:
+https://artobject111.github.io/green-api/
+##App description
+-Пользователь переходит на сайт чата и вводит свои учетные данные из
+системы GREEN-API (idInstance, apiTokenInstance) https://green-api.com/\
+-Пользователь вводит номер телефона получателя и создает новый чат\
+-Пользователь пишет текстовое сообщение и отправляет его получателю в
+WhatsApp\
+-Получатель отвечает на сообщение в мессенджере WhatsApp\
+-Пользователь видит ответ получателя в чате
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
